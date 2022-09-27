@@ -1,0 +1,87 @@
+#titulo {
+
+
+    font-family: 'Orbitron', sans-serif;
+    padding-left: 30px;
+}
+
+.principal {
+
+    background-color: blueviolet;
+
+}
+
+.interface {
+    background-color: indigo;
+    position: absolute;
+    padding: 10px;
+    border-radius: 15px;
+    height: 520px;
+    width: 200px;
+
+
+}
+
+.botao,
+.userName {
+
+    width: 200px;
+    height: 43px;
+    background-color: black;
+    padding: 5px;
+    border-color: black;
+    border-radius: 20px;
+    color: white;
+    display: grid;
+    align-items: center;
+    font-family: 'Orbitron', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+
+
+
+
+}
+
+
+
+.userName {
+    font-size: larger;
+    margin-top: 150px;
+    padding-right: 30px;
+
+}
+
+#homeButton {
+
+    font-size: larger;
+    padding-right: 90px;
+
+}
+
+#equalizerButton {
+
+    font-size: larger;
+    padding-right: 75px;
+
+
+}
+
+#dashButton {
+
+    font-size: larger;
+    padding-right: 33px;
+
+}
+
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 48
+}
