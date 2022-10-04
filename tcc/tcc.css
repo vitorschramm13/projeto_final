@@ -1,8 +1,10 @@
+
 #titulo {
 
 
     font-family: 'Orbitron', sans-serif;
     padding-left: 30px;
+    text-align: center;
 }
 
 .principal {
@@ -16,8 +18,8 @@
     position: absolute;
     padding: 10px;
     border-radius: 15px;
-    height: 520px;
-    width: 200px;
+    height: 95vh;
+    width: 12.5vw;
 
 
 }
@@ -25,7 +27,7 @@
 .botao,
 .userName {
 
-    width: 200px;
+    width: 12.5vw;
     height: 43px;
     background-color: black;
     padding: 5px;
